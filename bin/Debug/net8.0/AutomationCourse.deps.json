@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AutomationCourse/1.0.0": {
+        "runtime": {
+          "AutomationCourse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutomationCourse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
