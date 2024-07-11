@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj": {}
+    "C:\\Users\\Ivan\\Projects\\AutomationCourse\\AutomationCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj": {
+    "C:\\Users\\Ivan\\Projects\\AutomationCourse\\AutomationCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Projects\\AutomationCourse\\AutomationCourse.csproj",
         "projectName": "AutomationCourse",
-        "projectPath": "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Projects\\AutomationCourse\\AutomationCourse.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\AutomationCourse\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Projects\\AutomationCourse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
